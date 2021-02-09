@@ -29,5 +29,5 @@ For this project, the goal is to display a random image from Giphy along with a 
 
 ## Stretch Goals
 
-- [ ] Implement some of the optional request parameters available when making the Giphy API request (for example rating)
+- [ ] Implement some of the optional request parameters available when making the Giphy API request (for example, rating)
 - [ ] Style the page to make it look better
